@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 title: My website
-author: Ferran Aran
+author: Adam Koershuis
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -18,7 +18,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/images/ferran.jpeg"
+avatar: "/images/"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -36,12 +36,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ferran@ferranaran.com"
-  facebook: ferranad
-  github: ferranad
-  twitter: ferranad
-  youtube: "@ferranad"
-  linkedin: ferranaran
+  email: "adam.koershuisi@estudiants.urv.cat"
+  github: https://github.com/koershuis
+  linkedin: https://www.linkedin.com/in/adam-koershuis-garcia-5a17632b1/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -77,7 +74,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ferranad.github.io"
+#url-pretty: "ferranad.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
