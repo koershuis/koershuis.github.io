@@ -12,4 +12,4 @@ Adam Koershuis here — Bioinformatician in Barcelona. Always learning, always e
 
 ### Experience
 - Academic internship in bioinformatics at mbiomics, Munich, Germany (2025)
-- Bioinformatician at mbiomics, working remotely from Bareclona (2025 - present)
+- Bioinformatician at mbiomics, working remotely from Barcelona (2025 - present)
